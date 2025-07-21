@@ -5,8 +5,6 @@
  * Description: A plugin to generate blog content automatically based on post title.
  * Version: 1.0
  * Author: Dev.Tanisha
- * License: GPLv2 or later
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: automatic-blog-content-generator
  */
 
